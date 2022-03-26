@@ -40,6 +40,4 @@
 
 부트스트랩으로 적용한 페이지와 시큐리티로 인증한 페이지의 경로 지정오류로 페이지가 404에러를 냈다 [상세내용](https://velog.io/@jupiter-j/%EC%97%90%EB%9F%AC-Spring-Security-%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9Bootstrap-404%EC%97%90%EB%9F%AC-CSS-%EC%A0%81%EC%9A%A9-%EC%97%90%EB%9F%AC)
 
-## 배우게 된점
-멋쟁이사자 강의를 처음 들었을 때는 해당 강의를 4번이상 보았는데도 익숙해지지 않아서 어려움을 겪었다.
-같은 프로젝트를 2,3번 만들어보고 직접 타임리프까지 적용을 해보며 에러를 겪다보니 WebSecurityConfigurerAdapter에 대한 공부를 할 수 있었다. 
+
