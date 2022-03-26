@@ -2,7 +2,7 @@
 스프링 부트를 사용하여 로그인, 회원가입, 로그아웃 구현
 
 ## 제작 기간
-* 2022-03-16 ~ 2022-03-26
+* 2022-03-20 ~ 2022-03-26
 
 ## Tech Stack
 * SpringBoot, Gradle(Security), BootStrap, Thymleaf
