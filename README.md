@@ -33,7 +33,7 @@
 <img width="1404" alt="스크린샷 2022-03-26 오후 9 39 04" src="https://user-images.githubusercontent.com/73453283/160240434-4941c1e3-228e-4fc7-aa3f-f518f784a4c3.png">
 
 <br/><br/>
-## 에러 내역
+## 에러 이슈
 아이디와 패스워드를 입력 하였을때 PasswordEncoder mapped null에러가 났다. [상세내용](https://velog.io/@jupiter-j/%EC%97%90%EB%9F%AC-There-is-no-PasswordEncoder-mapped-for-the-id-null)
 
 타임리프로 RestController를 사용했을때 html페이지가 연결되지 않아서 어려움을 겪었다. [상세내용](https://velog.io/@jupiter-j/%EC%97%90%EB%9F%AC-Thymeleaf-%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84%EC%99%80-RestController-%EC%97%90%EB%9F%AC)
