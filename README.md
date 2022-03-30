@@ -12,6 +12,12 @@
 * 타임리프와 부트스트랩을 사용하여 MVC 패턴 적용
 * 유저의 회원가입, 로그인, 로그아웃 기능 구현
 * user Dto, Controller, Enttiy를 생성하여 회원가입한 정보를 받아 검증을 통해 로그인이 가능  
+* Oauth 
+
+
+<br/><br/>
+### Oauth 적용
+![2022-03-31 03 33 34](https://user-images.githubusercontent.com/73453283/160906770-1df8dd34-4f96-4fd3-b06f-c59ed752ed2e.gif)
 
 
 <br/><br/>
