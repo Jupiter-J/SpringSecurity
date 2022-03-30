@@ -3,7 +3,7 @@
 
 ## 제작 기간
 * 2022-03-20 ~ 2022-03-26
-* 2022-03-31 Oauth 추가
+* 2022-03-31 : Oauth 추가
 
 ## Tech Stack
 * SpringBoot, Gradle(Security), BootStrap, Thymleaf
