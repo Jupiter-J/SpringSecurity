@@ -41,4 +41,4 @@
 
 부트스트랩으로 적용한 페이지와 시큐리티로 인증한 페이지의 경로 지정오류로 페이지가 404에러를 냈다 [상세내용](https://velog.io/@jupiter-j/%EC%97%90%EB%9F%AC-Spring-Security-%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9Bootstrap-404%EC%97%90%EB%9F%AC-CSS-%EC%A0%81%EC%9A%A9-%EC%97%90%EB%9F%AC)
 
-git ignore 적용[상세내용](https://velog.io/@jupiter-j/%EC%97%90%EB%9F%AC-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4-gitignore-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+git ignore 적용 [상세내용](https://velog.io/@jupiter-j/%EC%97%90%EB%9F%AC-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4-gitignore-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
