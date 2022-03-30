@@ -19,12 +19,19 @@
     <link href="/signin.css" rel="stylesheet">
 </head>
 <body class="text-center">
-<form class="form-signin" th:action="@{/user/login}" method="post">
-    <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
-    <input type="text" id="inputEmail" name="username" class="form-control" placeholder="아이디" required autofocus>
-    <input type="password" id="inputPassword" name="password" class="form-control" placeholder="비밀번호" required>
-    <button class="btn btn-lg btn-primary btn-block" type="submit">로그인</button>
-</form>
+<div class="form-signin">
+    <form class="form-signin" th:action="@{/user/login}" method="post">
+        <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+        <input type="text" id="inputEmail" name="username" class="form-control" placeholder="아이디" required autofocus>
+        <input type="password" id="inputPassword" name="password" class="form-control" placeholder="비밀번호" required>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">로그인</button>
+    </form>
+
+    <button class="btn btn-lg btn-dark btn-light"
+            onclick="location.href = '/oauth2/authorization/naver'" >네이버 아이디로 로그인</button>
+</div>
+
+
 
 </body>
 </html>
