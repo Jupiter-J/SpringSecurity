@@ -14,7 +14,7 @@ ProjectLion에서 학습한 내용의 프로젝트 입니다
 * 타임리프와 부트스트랩을 사용하여 MVC 패턴 적용
 * 유저의 회원가입, 로그인, 로그아웃 기능 구현
 * user Dto, Controller, Enttiy를 생성하여 회원가입한 정보를 받아 검증을 통해 로그인이 가능  
-* Oauth 
+* Oauth 적용 
 
 
 <br/><br/>
