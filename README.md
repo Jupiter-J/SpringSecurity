@@ -42,7 +42,8 @@ ProjectLion에서 학습한 내용의 프로젝트 입니다
 <img width="1404" alt="스크린샷 2022-03-26 오후 9 39 04" src="https://user-images.githubusercontent.com/73453283/160240434-4941c1e3-228e-4fc7-aa3f-f518f784a4c3.png">
 
 <br/><br/>
-## 전체적인 로직 정리 [상세내용](https://velog.io/@jupiter-j/Spring-Security-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84)
+## 전체적인 로직 정리 
+프로젝트에 대한 설명 [상세내용](https://velog.io/@jupiter-j/Spring-Security-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84)
 <img width="965" alt="image" src="https://user-images.githubusercontent.com/73453283/161271574-1d5d3103-64a7-40be-b706-732f0f2f6ee3.png">
 
 
