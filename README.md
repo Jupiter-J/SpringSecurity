@@ -43,7 +43,7 @@ ProjectLion에서 학습한 내용의 프로젝트 입니다
 
 <br/><br/>
 ## 전체적인 로직 정리 
-프로젝트에 대한 공부 [상세내용](https://velog.io/@jupiter-j/Spring-Security-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84)
+프로젝트에 대한 공부 [내용](https://velog.io/@jupiter-j/Spring-Security-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84)
 
 <br/>
 <img width="965" alt="image" src="https://user-images.githubusercontent.com/73453283/161271574-1d5d3103-64a7-40be-b706-732f0f2f6ee3.png">
